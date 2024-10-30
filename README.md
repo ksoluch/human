@@ -1,1 +1,1 @@
-# local_repo
+# main repo, aggregates submodule
